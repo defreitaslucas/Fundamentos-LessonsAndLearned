@@ -30,9 +30,9 @@ body {
 }
 
 .lado-esquerdo {
-    position: relative;
-    display: inline-block;
-    width: 500px;
-    left: 0px;
-    right: 300px;
+  position: relative;
+  display: inline-block;
+  width: 500px;
+  left: 0px;
+  right: 300px;
 }
